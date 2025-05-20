@@ -1,5 +1,3 @@
-# gpt-privacy-policy
-Privacy policy for my custom GPT
 # Politique de confidentialité
 
 **Dernière mise à jour : 20 mai 2025**
